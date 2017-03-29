@@ -34,7 +34,7 @@
             <artifactId>resteasy-spring</artifactId>
             <version>${resteasy.version}</version>
         </dependency>
-
+kolasq11
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
